@@ -1,3 +1,6 @@
 # Pong-
 A basic Atari style pong game using pygame
-This GIT contains 3 programs, 2 for creating objects paddle and ball and 1 driver program to create the pygame environment and use these objects.
+This Application has 2 Options:
+            2 Players
+            1 Player (AI controls opponent Paddle)
+This application has a main menu to select which mode to play in, game itself and a Game Over screen.
